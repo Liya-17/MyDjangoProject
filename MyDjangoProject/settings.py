@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jmu#1@6-777_h5u1f7r1mh3l9($0@+zf833x8_sv60oc9&-&h1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['djangoproject.onrender.com','127.0.0.1']
+ALLOWED_HOSTS = ['djangoprojects1.onrender.com','127.0.0.1']
 
 
 # Application definition
